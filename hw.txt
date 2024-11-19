@@ -1,4 +1,3 @@
----START_CODER---
 Date: 11/18/2024
 Math: BIM 8.4
 Spanish: Acts. from the slides
@@ -6,4 +5,4 @@ Ethn. Studies: Slideshow Unit Final
 P.E.: None
 English: Old Packet / Story With Vocab Words
 Science: None (take notes tho)
----END_CODER---
+
